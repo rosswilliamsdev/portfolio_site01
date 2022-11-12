@@ -8,7 +8,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(/portfolio_site01/zen\ circle\ 2.tiff);
+    background-image: url(/portfolio_site01/enso\ bonsai\ bw\ invert.png);
     background-size: cover;
     background-position: center;
 }
@@ -28,7 +28,7 @@ nav {
 }
 
 span {
-    color: #f9004d;
+    color: forestgreen;
 }
 
 nav ul li {
@@ -45,12 +45,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f9004d;
+    color: forestgreen;
     transition: .4s;
 }
 
 .btn {
-    background-color: #f9004d;
+    background-color: forestgreen;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -84,7 +84,7 @@ h3 {
 }
 
 h4 {
-    color: #fcfc;
+    color: white;
     font-size: 20px;
 }
 
@@ -98,7 +98,7 @@ h4 {
     display: inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px;
-    border: 2px solid #f9004d;
+    border: 2px solid forestgreen;
     outline: none;
     border-radius: 30px;
 }
@@ -110,7 +110,7 @@ h4 {
     border: none;
     padding: 10px 30px;
     border-radius: 30px;
-    background-color: #f9004d;
+    background-color: forestgreen;
     color: white;
     box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
     top: 6px;
@@ -161,7 +161,7 @@ h4 {
 }
 
 .about-text p {
-    color: #fcfc;
+    color: white;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -169,7 +169,7 @@ h4 {
 }
 
 button {
-    background-color: #f9004d;
+    background-color: forestgreen;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -223,7 +223,7 @@ button:hover {
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color: #f9004d;
+    color: forestgreen;
 }
 
 h5 {
@@ -233,14 +233,14 @@ h5 {
 }
 
 .pra p {
-    color: #fcfc;
+    color: white;
     font-size: 16px;
     line-height: 27px;
     margin-bottom: 25px;
 }
 
 .card .button {
-    background-color: #f9004d;
+    background-color: forestgreen;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -252,7 +252,7 @@ h5 {
 
 .card .button:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid forestgreen;
     cursor: pointer;
 }
 
@@ -274,7 +274,7 @@ h5 {
 }
 
 .contact-me .button-two {
-    background-color: #f9004d;
+    background-color: forestgreen;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -286,6 +286,6 @@ h5 {
 
 .contact-me .button-two:hover {
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid forestgreen;
     cursor: pointer;
 }
